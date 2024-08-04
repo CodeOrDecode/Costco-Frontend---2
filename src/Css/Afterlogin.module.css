@@ -1,0 +1,174 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.home {
+  overflow: hidden;
+}
+
+.banner1 {
+  width: 97%;
+  border-radius: 12px;
+  display: block;
+  margin: auto;
+  margin-top: 17px;
+  height: 400px;
+  margin-bottom: 26px;
+}
+
+.sliderimg {
+  width: 97%;
+  border-radius: 12px;
+  height: 370px;
+}
+
+.crousel1 {
+  text-align: center;
+  margin-bottom: 60px;
+}
+
+.banner2 {
+  width: 95%;
+  display: flex;
+  justify-content: space-between;
+  margin: auto;
+  margin-bottom: 30px;
+}
+
+.banner2 > div {
+  width: 24%;
+  text-align: center;
+  background-color: #eaeaea;
+  border-radius: 12px;
+}
+
+.banner2 > div > img {
+  width: 100%;
+  border-radius: 12px;
+  height: 330px;
+  padding-top: 15px;
+}
+
+.banner2p {
+  font-family: "Noto Sans", sans-serif;
+  font-weight: 500;
+  font-size: 15px;
+  cursor: pointer;
+  margin-bottom: 14px;
+  margin-top: 6px;
+}
+
+.banner3 {
+  width: 95%;
+  display: flex;
+  justify-content: space-between;
+  margin: auto;
+  margin-bottom: 30px;
+}
+
+.banner3 > div {
+  width: 24%;
+  text-align: center;
+  background-color: #eaeaea;
+  border-radius: 12px;
+}
+
+.banner3 > div > img {
+  width: 100%;
+  border-radius: 12px;
+  height: 330px;
+  padding-top: 15px;
+}
+
+.banner3p {
+  font-family: "Noto Sans", sans-serif;
+  font-weight: 500;
+  font-size: 15px;
+  cursor: pointer;
+  margin-bottom: 14px;
+  margin-top: 6px;
+}
+
+.banner4 {
+  width: 98%;
+  margin: auto;
+  border-radius: 14px;
+  display: block;
+  margin-bottom: 30px;
+  height: 280px;
+}
+
+.banner5 {
+  width: 97%;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 50px;
+}
+
+.banner5 > img {
+  width: 49%;
+  border-radius: 14px;
+  height: 210px;
+}
+
+.sliderimg2{
+  width: 86%;
+  margin-left: 40px;
+  border-radius: 14px;
+}
+
+.crousel2{
+  width: 97%;
+  margin: auto;
+  margin-bottom: 30px;
+}
+
+.crousel2cur{
+  cursor: pointer;
+}
+
+
+.crousel2des{
+  margin-left: 40px;
+  font-family: "Noto Sans", sans-serif;
+  font-weight: 500;
+  font-size: 15px;
+  margin-top: 12px;
+}
+
+.crousel3des{
+  margin-left: 40px;
+  font-family: "Noto Sans", sans-serif;
+  font-weight: 500;
+  font-size: 25px;
+  margin-top: 12px;
+}
+
+.banner6{
+  width: 97%;
+  border-radius: 14px;
+  height: 270px;
+  margin: auto;
+  display: block;
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+
+.banner8{
+  width: 97%;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 40px;
+}
+
+.banner8>img{
+  width: 32%;
+  border-radius: 14px;
+  height: 200px;
+}

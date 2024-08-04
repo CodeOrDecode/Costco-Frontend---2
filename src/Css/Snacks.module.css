@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.pro {
+  overflow: hidden;
+}
+
+.promain {
+  width: 100vw;
+  /* height: 500px; */
+  /* background-color: blue; */
+  margin-top: 140px;
+  display: flex;
+  margin-bottom: 60px;
+}
+
+.promain1 {
+  width: 25%;
+  /* height: 400px; */
+  /* background-color: blue; */
+}
+
+.promain2{
+    width: 74%;
+    /* height: 400px; */
+    /* background-color: blue; */
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 30px;
+}
+
+.smallpro>img{
+    width: 140px;
+}
+
+.promain2cat{
+    font-family: "Noto Sans", sans-serif;
+    font-weight: 500px;
+    font-size: 30px;
+    margin-top: 14px;
+    margin-bottom: 14px;
+    position: absolute;
+    top: 250px;
+    right: 874px;
+}
+
+
+.smallprop1{
+    font-family: "Noto Sans", sans-serif;
+    font-weight: 500px;
+    font-size: 20px;
+   margin-top: 14px;
+}
+
+.smallprop2{
+    font-family: "Noto Sans", sans-serif;
+    font-weight: 500px;
+    font-size: 14px;
+   margin-top: 6px;
+}
+
+.smallpro{
+    cursor: pointer;
+}
+
+.selectpro{
+    position: absolute;
+    top: 250px;
+    right: 70px;
+    font-family: "Noto Sans", sans-serif;
+    font-weight: 500px;
+    font-size: 16px;
+    outline: none;
+}
+
+.filter1{
+    font-family: "Noto Sans", sans-serif;
+    font-weight: 500px;
+    font-size: 26px;
+}
+
+.promain1{
+    padding-left: 20px;
+   
+}
+
+.ruller4{
+    margin-top: 16px;
+    width: 94%;
+    color: #dddddd;
+}
+
+.category{
+    font-family: "Noto Sans", sans-serif;
+    font-weight: 500px;
+    font-size: 20px;
+    margin-top: 16px;
+}
+
+.progrop1{
+    margin-top: 14px;
+    font-family: "Noto Sans", sans-serif;
+    font-weight: 500px;
+    font-size: 16px;
+    cursor:  pointer;
+
+}
+
+.progrop1:hover{
+    text-decoration: underline;
+}
+
+.ruller5{
+    margin-top: 24px;
+    width: 94%;
+    color: #dddddd;
+}
+
+.duo{
+    display: flex;
+    margin-top: 16px;
+align-items: center;
+
+}
+
+.selectsmall{
+    height: 17px;
+    width: 17px;
+    border: 1px solid black;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.selectsmallp1{
+    font-family: "Noto Sans", sans-serif;
+    font-weight: 500px;
+    font-size: 16px;
+    margin-left: 11px;
+}

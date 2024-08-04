@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.footer1{
+    width: 100%;
+    height: 430px;
+    background-color: #eeeeee;
+    display: flex;
+
+}
+
+.footer1>div{
+    width: 22%;
+    padding: 42px 26px;
+    margin: auto;
+}
+
+.footerp1{
+    font-family: "Open Sans", sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+    margin-bottom: 16px;
+}
+
+.footerp2{
+    font-family: "Open Sans", sans-serif;
+    margin-top: 5px;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.footerp2:hover{
+    text-decoration: underline;
+}

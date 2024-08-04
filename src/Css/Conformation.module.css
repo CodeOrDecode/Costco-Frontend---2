@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.maincon1{
+    width: 100vw;
+    height: 100vh;
+    background-color: #eeeeee;
+}
+
+.maincon1p1{
+    font-family: "Open Sans", sans-serif;
+    font-weight: 700;
+    font-size: 68px;
+    letter-spacing: 2px;
+    padding-top: 142px;
+    color: #0000ff;
+    text-align: center;
+
+}
+
+.maincon1img1{
+    width: 100px;
+    margin-top: 22px;
+    /* margin-left: 620px; */
+    display: block;
+margin: auto;
+}
+
+.maincon1p2{
+    font-family: "Open Sans", sans-serif;
+    font-weight: 700;
+    font-size: 15px;
+    letter-spacing: 1px;
+    margin-top: 22px;
+    text-align: center;
+}
+
+.maincon1p3{
+    font-family: "Open Sans", sans-serif;
+    font-weight: 600;
+    font-size: 15px;
+    letter-spacing: 1px;
+    margin-top: 22px;
+    text-decoration: underline;
+    color: #0000ff;
+    text-align: center;
+    cursor: pointer;
+}
+
+.homebutt1{
+    border: none;
+    outline: none;
+    background-color: #0000ff;
+    color: white;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 700;
+    font-size: 17px;
+    padding: 11px 28px;
+    border-radius: 3px;
+    display: block;
+    margin: auto;
+    cursor: pointer;
+    margin-top: 34px;
+}
+
+.homebutt1:hover{
+    background-color: #2a2ae4;
+}
